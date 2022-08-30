@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dhegacade
 - 👀 I’m interested in teaching how to code especially python.
 - 🌱 I’m currently learning Python and also works as Devop engineer at TSN
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... python project
 - 📫 How to reach me dhegacade62@gmail.com
 
 <!---
